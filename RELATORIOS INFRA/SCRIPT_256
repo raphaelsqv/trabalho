@@ -1,0 +1,10 @@
+# Define o ponto de partida da busca
+$diretorio = "E:\" 
+
+# Busca os arquivos e filtra pelo tamanho do FullName
+Get-ChildItem -Path $diretorio -Recurse -File -ErrorAction SilentlyContinue | 
+    Select-Object FullName, @{Name="TamanhoCaminho"; Expression={$_.FullName.Length}} | 
+    Where-Object {$_.TamanhoCaminho -gt 256} | 
+    Export-Csv -Path "C:\Relatorio_Caminhos_Longos_E.csv" -NoTypeInformation -Encoding UTF8
+
+Write-Host "Busca concluída! O relatório foi salvo em C:\Relatorio_Caminhos_Longos_E.csv" -ForegroundColor Green
