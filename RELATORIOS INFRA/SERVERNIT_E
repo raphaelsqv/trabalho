@@ -1,0 +1,65 @@
+
+#Pastas Alocadas SERVERNITT - ARQUIVOS  UNIDADE:  E:/Dados
+
+
+NOME;ESPAÇO EM DISCO;UNID_MEDIDA;ARQUIVOS;PASTAS
+
+CONTABILIDADE;
+CHEFIA_GAB;
+DProcLicitatorios;
+Sinaliazação;
+SAA;
+GUIAS;
+Governanca;
+OUVIDORIA;
+CI_Jur_PRES;
+DGM;
+Fiscal_Agente;
+Instaladores;
+Publi_DO_CADA_JARI;
+Dir Transito_
+CPD_LEGADO_EXCLUIR;
+LOGO_2025;
+Seg_Trabalho
+DirTransito_OLD; Pasta com erro
+BKP_JUR_2024;
+BKP_PRES_2024;
+JURIDICO_;
+TCE;
+scanerprotocolo_old;
+ScanerLicitacao_old;
+scanersstt6_old;
+scanertmp_old;
+scanerfiscalizacao7_old;
+scanercompras_old;
+scaner7_old;
+scaner6_old;
+Saude_LEGADO_COVID;
+RECUPERADOR;
+PROTOCOLO_LEGADO;
+PATRIMONIO_LEGADO;
+TESOURARIA_LEGADO;
+IDOSO_PASTA_ERRO;
+IMPACTO_VIARIO_LEGADO;
+FISCALIZACAO_LEGADO;
+ESTATISTICA_LEGADO;
+ENGENHARIA_VELHO;
+ENGENHARIA_LEGADO;
+EDUCACAO_LEGADO;
+Ecomix_LEGADO;
+DIRFINANCEIRA_LEGADO;
+Diretores;
+LOGO_NITTRANS;
+Dir_Planejamento_LEGADO;
+DFIN_TESOURARIA_LEGADO;
+CONTABILIDADE_LEGADO;
+Contabil_compra_LEGADO;
+DirAdm_LEGADO;
+COMPRAS_LEGADO;
+CARTAO_IDOSO_LEGADO;
+BiancaBKP_PESSOAL;
+Comunicacao_engenharia_LEGADO;
+
+
+#Dentre todos as pastas , arquivos com nome e extenções maiores do que 256
+
