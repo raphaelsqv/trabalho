@@ -1,0 +1,832 @@
+//// OBSERVAÇÔES 
+
+LOCALIDADE
+
+
+SEDE G + 500
+
+GALPAO  500 + 250
+
+CCO 1G - possivelmente pode cair 
+
+
+
+
+
+
+
+
+
+
+
+
+
+TEXTO TOTAL ABAIXO -> 
+
+
+
+
+O TEXTO ABAIXO esta em configuração , aqui se trata de um backup de reserva em caso de desastres 
+-------------------------------------------------
+
+
+
+
+ESTUDO TÉCNICO PRELIMINAR
+
+
+Contratação de Solução de Conectividade via Fibra Óptica com Redundância
+
+(Prestação de Serviços)
+
+
+ 
+
+
+
+Data de Elaboração: XX/XX/2026
+
+ 
+Prestação de Serviços – Lei 13.303 de 30 de junho de 2016
+
+
+NITERÓI TRÂNSITO S.A – Niterói Trânsito S/A
+
+Processo Administrativo nº xxxxxxx/2026 
+ESTUDO TÉCNICO PRELIMINAR
+1.	INTRODUÇÃO
+1.1.	O presente Estudo Técnico Preliminar (ETP) tem por finalidade apresentar a análise técnica e econômica realizada pela equipe da NITERÓI TRÂNSITO S.A, com vistas à contratação de empresa especializada no fornecimento de Solução de Tecnologia da Informação e Comunicação (TIC), voltada à conectividade de dados corporativos. O escopo compreende a disponibilização de Links Dedicados de Acesso à Internet via fibra óptica (), incluindo a instalação, configuração, gerenciamento proativo, monitoramento e suporte técnico integral de toda a infraestrutura lógica e física necessária. A contratação será orientada pelos princípios da eficiência, economicidade e vantajosidade, nos termos da Lei nº 13.303/2016 e demais normativos aplicáveis.
+1.2.	A contratação se mostra indispensável para assegurar a infraestrutura de TIC necessária para a execução das atividades críticas da NITERÓI TRÂNSITO S.A, incluindo o acesso a sistemas administrativos, ferramentas de monitoramento de tráfego, serviços digitais de divulgação e atendimento ao munícipe. A solução visa garantir a alta disponibilidade e a continuidade operacional, mitigando riscos de interrupção que impactam diretamente a produtividade administrativa e a eficiência dos serviços prestados à população. Este Estudo Técnico Preliminar fundamenta o planejamento da contratação, servindo como base para a instrução do processo administrativo
+1.3.	Ressalta-se que a contratação observa os princípios do planejamento, transparência, motivação e interesse público, conforme estabelecido no art. 30 da Lei nº 13.303/2016, sendo este ETP parte integrante da fase preparatória da contratação, nos termos do art. 40 e seguintes da mesma norma, os quais exigem a demonstração da necessidade da contratação com a devida fundamentação técnica e econômica.
+
+
+
+2.	DESCRIÇÃO DA NECESSIDADE DA CONTRATAÇÃO
+2.1.	A NITERÓI TRÂNSITO S.A, identificou a necessidade de modernizar e renovar os equipamentos de informática usados atualmente. Essa demanda decorre da constante evolução tecnológica, que acarreta a obsolescência natural dos equipamentos, comprometendo a eficiência dos sistemas e a continuidade dos serviços prestados aos munícipes. A contratação pretendida visa assegurar o adequado funcionamento das atividades administrativas, promovendo maior eficiência operacional, qualidade nos serviços prestados e agilidade na entrega dos equipamentos necessários.
+2.2.	Além disso, a iniciativa representa uma oportunidade estratégica para racionalizar os gastos públicos, por meio da unificação de processos e contratos, possibilitando a obtenção de melhores condições comerciais com ganho de escala e ampliação da concorrência entre fornecedores. 
+2.3.	Ressalta-se que a não realização da contratação poderá gerar prejuízos relevantes à administração, como a interrupção de serviços essenciais, aumento de custos operacionais e perda de produtividade. Os serviços a serem adquiridos são considerados comuns, com especificações amplamente disponíveis no mercado, e atenderão às necessidades identificadas pela NITERÓI TRÂNSITO S.A, garantindo o suporte tecnológico necessário às suas funções.
+
+3.	SETOR REQUISITANTE
+3.1.	Departamento de Tecnologia da Informação - DTI
+4.	DESCRIÇÃO DOS REQUISITOS DA CONTRATAÇÃO
+4.1.	Visando manter os níveis desta contratação dentro dos padrões adequados, verifica-se a necessidade de estabelecer, no mínimo, as seguintes exigências:
+4.1.1.	Requisitos de Negócio da Solução
+4.1.1.1.	A solução a ser adotada deverá contemplar a disponibilização de links de comunicação de dados via fibra óptica Link dedicado, incluindo todo o hardware como roteadores, modems ópticos e ONUs e infraestrutura de rede necessária para seu pleno funcionamento. Também deverão ser fornecidos os serviços de instalação, ativação, configuração de roteamento avançado; incluindo balanceamento de carga e transferência em caso de falha automático, com gerenciamento e monitoramento remoto NOC, suporte técnico especializado em regime 24x7, bem como manutenção corretiva e preventiva com reposição imediata de equipamentos e componentes em caso de falhas
+4.1.1.2.	Além dos requisitos acima, a solução deverá:
+•	Assegurar a alta disponibilidade e a estabilidade dos serviços de conectividade, garantindo níveis de Acordo de Nível de Serviço rigorosos, reduzindo o tempo de indisponibilidade da rede e mitigando riscos de interrupção nas operações vitais
+•	///////  Oferecer integração plena com a topologia de rede e os equipamentos de segurança (Firewall/Roteadores) da NITERÓI TRÂNSITO S.A., garantindo compatibilidade com os protocolos de comunicação utilizados e viabilizando o funcionamento fluido do balanceamento de carga e da transferência em caso de falha  automático entre os links .
+•	/////////////////  Permitir o controle e a visibilidade do consumo de banda, por meio do fornecimento de acesso a ferramentas ou portais de gerenciamento que permitam a emissão de relatórios de utilização, tráfego, latência, perda de pacotes e disponibilidade em tempo real
+•	/////////////////////  Fornecer equipamentos de borda (Modems/CPEs/Roteadores), componentes e cabeamento novos, de tecnologia recente, devidamente homologados pela ANATEL e dimensionados para suportar a velocidade contratada sem gargalos de processamento
+•	Garantir a logística reversa dos equipamentos e insumos utilizados durante a vigência do contrato, conforme as normativas ambientais e boas práticas de sustentabilidade. 
+
+4.1.2.	Requisitos Legais
+A solução adotada neste documento deve orientar-se e respeitar as seguintes normatizações:
+•	Lei 13.303 de 30 de junho de 2016, que dispõe sobre o estatuto jurídico da empresa pública, da sociedade de economia mista e de suas subsidiárias, no âmbito da União, dos Estados, do Distrito Federal e dos Municípios.
+•	Lei Complementar nº 123/2006, que estabelece normas gerais relativas ao tratamento diferenciado e favorecido a ser dispensado às microempresas e empresas de pequeno porte atualizada;
+•	Regulamento Interno de Licitações e contratos da Niterói Trânsito S.A.
+
+4.1.3.	Requisitos Gerais da Solução
+Também são requisitos relevantes a serem exigidos das empresas, no mínimo, os abaixo relacionados:
+•	Aderência aos termos do instrumento convocatório da contratação e às legislações federal, estadual, municipal e normatizações relacionadas vigentes;
+•	Compromisso com a redução do impacto ambiental negativo e com a proteção ao meio natural e antrópico;
+•	Comprometimento com o uso de produtos certificados e que não contenham potencial agressivo e prejudicial às pessoas, a animais, ao meio ambiente e ao patrimônio;
+•	Aderência às normas técnicas em geral, em especial as relacionadas com saúde operacional e segurança do trabalho;
+•	Compromisso com o bem-estar, progresso profissional e pessoal de seus colaboradores;
+•	Combate ao trabalho infantil ilegal e ao trabalho escravo e análogo a escravo;
+•	Adoção de requisitos que não limitem a competição e não deixe a Unidade Requisitante dependente da Contratada;
+•	Garantia da prevalência dos princípios de legalidade, impessoalidade, moralidade, isonomia, publicidade, probidade administrativa, julgamento objetivo e vinculação ao instrumento convocatório em todo o processo licitatório.
+
+4.1.4.	Requisitos Tecnológicos da Solução
+•	Oferecer um desempenho computacional compatível com as atividades administrativas, operacionais da NITERÓI TRÂNSITO S.A.  /////////////  Oferecer desempenho de tráfego de dados (vazão/throughput) compatível com as demandas administrativas e operacionais da NITERÓI TRÂNSITO S.A., garantindo baixas taxas de latência, jitter e perda de pacotes, essenciais para aplicações de tempo real (VoIP, Videoconferência, Sistemas de Monitoramento)
+•	Os equipamentos fornecidos deverão estar atualizados tecnologicamente, em linha de produção e compatíveis com os padrões de mercado no momento da contratação./////// Os equipamentos de borda fornecidos (CPEs, Roteadores, ONUs) deverão estar atualizados tecnologicamente, possuir portas compatíveis com a velocidade contratada (ex: Gigabit Ethernet ou 10GbE) e estar em conformidade com os padrões de mercado e homologações da ANATEL
+•	Maximizar a eficiência energética dos recursos computacionais.////  Fornecer equipamentos dimensionados para suportar o tráfego contratado sem gargalos de processamento (CPU/Memória do roteador), maximizando a estabilidade da conexão
+•	Oferecer compatibilidade tecnológica com sistemas operacionais, softwares e infraestrutura de rede existentes.  ////////////////  Oferecer total compatibilidade com os protocolos de rede (IPv4 e IPv6), sistemas de segurança (Firewall) e a infraestrutura de rede local (LAN) existentes na NITERÓI TRÂNSITO S.A
+•	Observar os requisitos de sustentabilidade ambiental.  ////////////////  bservar os requisitos de sustentabilidade ambiental, especialmente quanto ao consumo de energia dos equipamentos instalados e o descarte de cabos/fibras.
+•	Manter a compatibilidade com as especificações descritas neste Estudo Técnico Preliminar.  //////////////////   Manter a compatibilidade com as especificações de Nível de Serviço (SLA) descritas neste Estudo Técnico Preliminar.
+•	Possuir suporte técnico completo, incluindo manutenção preventiva, corretiva e sistema de controle de chamados. /////////////////    Possuir suporte técnico especializado (NOC), incluindo manutenção preventiva e corretiva da rede externa e dos equipamentos internos, com sistema de abertura e acompanhamento de chamados (tickets) disponível 24x7
+•	Compatibilidade com gerenciamento remoto com inventário, monitoramento e geração de relatórios   ///////////////   Compatibilidade com gerenciamento remoto pela contratada, mas fornecendo à NITERÓI TRÂNSITO S.A. acesso a relatórios de disponibilidade e gráficos de utilização de banda
+•	A solução deverá estar alinhada com as tecnologias de TIC vigentes, sendo obrigatória, a cada 12 (doze) meses do contrato, a apresentação de proposta com equipamentos tecnologicamente atualizados. A substituição por modelos mais recentes e de melhor desempenho será condição para continuidade contratual. Não será permitida a manutenção dos mesmos modelos anteriormente fornecidos, ainda que permaneçam em linha de produção. A equipe técnica da NITERÓI TRÂNSITO S.A avaliará as propostas de atualização, podendo recusá-las se não atenderem aos padrões tecnológicos disponíveis no mercado no momento, conforme critérios de razoabilidade e viabilidade técnica.   ////////////////////////////    Considerando a complexidade técnica, a necessidade de outorga da ANATEL (Licença SCM - Serviço de Comunicação Multimídia) e a exigência de infraestrutura de rede robusta para a continuidade da solução, não será aceita a contratação de pessoas físicas no presente processo
+4.2.	Considerando os requisitos apresentados, a relevância e a necessidade de continuidade da solução, não será aceita a contratação de pessoas físicas no presente processo
+5.	LEVANTAMENTO DE MERCADO
+5.1.	Avaliação comparativa
+5.1.1.	Diversas empresas podem prestar os serviços, por se tratar de serviço comum, disponíveis no mercado.
+5.1.2.	Foram analisadas contratações similares formalizadas por outros órgãos e entidades, por meio de consultas ao sistema Painel de Preços do Portal de Compras do Governo Federal (www.compras.gov.br), com objetivo de identificar a existência de novas metodologias, tecnologias ou inovações que melhor atendessem às necessidades da NITERÓI TRÂNSITO S.A, e as que foram identificadas foram incorporadas na contratação em análise.
+5.1.3.	Na contratação em análise não foram identificadas situações específicas ou casos de complexidade técnica do objeto, que pudessem acarretar a realização consulta pública para coleta de contribuições a fim de definir a solução mais adequada visando preservar a relação custo-benefício, em face dos serviços serem considerados comuns.
+5.1.4.	Em razão da complexidade e abrangência da demanda, bem como da diversidade tecnológica dos equipamentos envolvidos, a alternativa de aquisição definitiva revela-se inadequada sob os aspectos técnico e econômico. A manutenção de um parque próprio de TI exigiria elevados investimentos em infraestrutura, logística, suporte técnico especializado, atualização constante e gestão operacional, tornando o modelo financeiramente oneroso e operacionalmente ineficiente. A contratação por locação com serviços integrados de instalação, suporte e gerenciamento remoto configura-se como uma alternativa tecnicamente consistente e economicamente sustentável, compatível com as melhores práticas de gestão de ativos de tecnologia da informação.
+5.1.5.	Análises de contratações anteriores pelos Órgãos e Entidades no âmbito do Município de Niterói.
+5.1.5.1.	Foram identificadas contratações anteriores formalizadas pelos Órgãos e Entidades do Município de Niterói para o atendimento a demandas similares à descrita neste ETP:
+Processo Administrativo	Ato Administrativo	Data de Celebração
+020/005416/2021	Contrato n.º 01/2023	16/01/2023
+020/005416/2021	Contrato n.º 02/2023	18/01/2023
+
+5.1.6.	Projetos para demandas similares implementados por outros Órgãos Públicos
+5.1.6.1.	Foram identificadas as seguintes contratações formalizadas por outros Órgãos Públicos, com demandas similares às do objeto a ser contratado:
+Órgão Público	Ato Administrativo	Data de Realização
+Câmara Municipal de
+Varginha (MG)	Contrato nº 14/2025	22/04/2025
+Prefeitura Municipal de Fazenda Rio Grande	Pregão Eletrônico Nº 0002/2025	12/05/2025
+
+5.1.7.	Análises das soluções disponíveis no mercado
+5.1.7.1.	Para avaliação da melhor forma de atendimento à demanda apresentada foram consideradas dois modelos para a contratação da solução para a demanda identificada:
+5.1.7.2.	Demanda: Locação de microcomputadores, notebooks, monitores, nobreaks e lousa interativa, com fornecimento de hardware, softwares e assistência técnica.
+
+Soluções possíveis:
+
+a)	Adesão a Ata de Registro de Preço para Contratação de Serviços de Locação de Equipamentos de TIC;
+b)	Realização de licitação para contratação de Serviços de Locação de Equipamentos de TIC.
+
+	Alternativa	Forma de Ação	Problemas
+A	Adesão a Ata de Registro de Preço para Contratação de Serviços de Locação de Equipamentos de TIC;	Sistema de Registro de Preços - SISRP;
+Terceirização Integral (Outsourcing)	Menor celeridade, visto a necessidade de disponibilidade do gestor da Ata;
+Vinculação a características próprias da ARP, que pode não atender todas as necessidades da NITERÓI TRÂNSITO S.A.
+B	Contratação de Serviços de Locação de Equipamentos de TIC	Sistema de Preços Praticados – SISPP;
+Terceirização Integral (Outsourcing).	Obrigatoriedade imediata de adquirir o quantitativo global do serviço;
+Exige recursos imediatos para Execução;
+
+
+5.1.7.2.1.	Tomando por base a premissa acima exposta e para um melhor entendimento dois modelos de contratação propostos neste estudo, foi elaborada uma tabela comparativa com pontuação das características de cada modelo, seguindo um critério onde se classifica como PP (Ponto Positivo) ou PN (Ponto Negativo).
+5.1.7.2.2.	Deste modo, caracteriza-se como modelo com maior vantajosidade aquele com maior quantitativo de Pontos Positivos (PP).
+
+
+5.1.7.2.3.	Considerando:
+Modelo A - Adesão a Ata de Registro de Preço para Contratação de Serviços de Locação de Equipamentos de TIC;
+
+Modelo B - Contratação de Serviços de Locação de Equipamentos de TIC.
+
+
+Característica da contratação	A	B
+Celeridade	PN	PP
+Adequação às necessidades da NITTRANS	PN	PP
+Economia de escala	PN	PN
+Flexibilidade 	PN	PP
+Custo administrativo	PP	PN
+Risco orçamentário	PP	PP
+Total de PP	2	4
+
+	
+5.1.8.	Escolha do objeto da contratação
+5.1.8.1.	De acordo com informações apresentadas neste estudo, evidenciamos que dentre os parâmetros analisados, o modelo A – Adesão a Ata de Registro de Preço para Contratação de Serviços de Locação de Equipamentos de TIC não é a melhor opção, em virtude das características dos equipamentos das necessidades da NITERÓI TRÂNSITO S.A
+5.1.8.2.	Ressalta-se por fim os seguintes fatores importantes que foram considerados na escolha:
+5.1.8.2.1.	Eficiência no Gerenciamento de Recursos: A realização de uma licitação própria permite que a NITERÓI TRÂNSITO S.A adquira exatamente os equipamentos que precisa, seguindo os parâmetros de qualidade determinados por esta Administração
+5.1.8.2.2.	Flexibilidade Contratual: O contrato será redigido conforme as necessidades da própria NITERÓI TRÂNSITO S.A, não precisando se adequar as condições impostas, caso aderisse a uma ARP;
+5.1.8.2.3.	Atendimento às Diretrizes Estratégicas: O modelo escolhido está em conformidade com os princípios de eficiência, eficácia e economicidade estabelecidos pela Administração Pública, atendendo às metas de modernização e sustentabilidade operacional;
+
+6.	DESCRIÇÃO DA SOLUÇÃO COMO UM TODO
+6.1.	Os serviços pretendidos para prestação de serviço de locação, instalação, configuração, gerenciamento remoto e suporte de microcomputadores, incluindo No-Break e solução de videoconferência, monitores, notebooks incluem atividades típicas, tais como: fornecimento de hardware, software e suporte técnico, dentre outras.
+6.1.1.	Quadro resumo de detalhamento do objeto:
+
+Lote 1 – Estações de Trabalho com monitor
+Item	Descrição resumida	Quantidade 	Unidade
+1	Outsourcing de Desktop	200	
+2	Outsourcing de Monitor de vídeo extra	200	
+
+Lote 2 – Computação móvel e Suporte interativo
+Item	Descrição resumida	Quantidade 	Unidade
+4	Outsourcing de Notebook 	10	
+5	Outsourcing de Lousa interativa	4	
+
+Lote 3 – Suporte infraestrutura
+Item	Descrição resumida	Quantidade 	Unidade
+6	Outsourcing de Nobreaks	200	
+
+
+
+
+	
+6.1.2.	Os equipamentos e serviços deverão atender, no mínimo, às especificações a seguir, sendo permitidas configurações superiores que mantenham ou ampliem a compatibilidade e funcionalidade requeridas:
+
+6.1.2.1.	ITEM 1 – DESKTOP – Alto Desempenho
+6.1.2.1.1.	PROCESSADOR:
+•	Deve atingir índice de, no mínimo, 12.500 pontos para o desempenho, tendo como referência a base de dados Passmark CPU Mark disponível no site http://www.cpubenchmark.net/cpu_list.php;
+•	Possuir memória cache de 9 MB ou superior; possuir, no mínimo, 06 (seis) núcleos físicos;
+•	Não serão aceitos processadores descontinuados pelos fabricantes dos processadores. É obrigatório declarar, na proposta, o modelo do processador ofertado.
+
+6.1.2.1.2.	MEMÓRIA PRINCIPAL:
+•	Dotada com tecnologia DDR-4, 2.400 MHz ou superior; Suporte à tecnologia Dual Channel;
+•	32 (trinta e dois) GB de memória instalada;
+•	Suporte a expansão a 64 GB de memória, sendo permitida a troca dos módulos de memória;
+
+6.1.2.1.3.	BIOS:
+•	Desenvolvida em Flash ROM, devendo permitir a atualizações por meio de software; Deverá exibir a logomarca do fabricante do equipamento;
+•	Deverá ser desenvolvida em português ou inglês, compatível com o padrão UEFI, sendo o fabricante do computador membro da UEFI.org, comprovado através do site http://www.uefi.org/members, em qualquer categoria;
+•	Possibilitar que a senha de acesso ao BIOS seja ativada e desativada via SETUP; Permitir senhas de Setup para Power On e Administrador;
+•	Permitir inserir registro de controle patrimonial, de pelo menos 10 (dez) caracteres em memória não volátil; Deverá possuir campo específico com o número de série do equipamento, gravado em memória não volátil e campo não editável;
+•	Deverá possuir sistema diagnóstico independente do Sistema Operacional, capaz de verificar a saúde do sistema de, pelo menos,os seguintes itens: Tela LCD/Display
+•	Slots PCI/PCI Express;
+•	Disco Rígido;
+•	Boot do Sistema Operacional; Funcionalidade de Portas USB; Interface Gráfica;
+•	Memória RAM;
+•	Resumo da Configuração do Equipamento;
+•	A fim de permitir o teste do equipamento, com independência do sistema operacional instalado, o software de diagnóstico deve ser capaz de ser executado na inicialização do POST.
+
+6.1.2.1.4.	PLACA MÃE
+•	Possuir no mínimo 06 (seis) portas USB 3.1 ou superior, com pelo menos 2 (duas) portas USB instaladas na parte frontal do gabinete;
+•	Pelo menos 01 (uma) das portas USB 3.1 solicitadas no item anterior deverá ser do Tipo C da geração 2 ou superior;
+•	Não será permitida a utilização de hubs ou em adaptadores PCI;
+•	Possuir, no mínimo, 01 (um) slot padrão PCI Express x16 na versão 3.0, mais 1 (um) slot padrão PCI Express x1 na versão 3.0 e mais 1 (um) slot PCI Express M.2;
+•	O chipset deve ser da mesma marca do fabricante do processador.
+•	Mínimo 4 (quatro) slots para memória tipo DDR4, permitindo a instalação de até 64 (sessenta e quatro) Gigabytes;
+•	Suportar recursos DASH 1.2 (Desktop and mobile Architecture for System Hardware);
+•	Sistema de detecção de intrusão de chassis, com acionador instalado no gabinete que permita a detecção de abertura ainda que o equipamento esteja desligado da fonte de energia;
+•	Controladora SATA 3 ou versão superior, integrada e compatível com os periféricos adiante especificados;
+•	Regulagem da velocidade de rotação do cooler da CPU de forma automática, de acordo com a variação de temperatura da CPU;
+•	Suportar boot por pendrive ou disco conectado a uma porta USB 2.0 ou superior.
+•	Suportar o inventário remoto de hardware, assumindo-se que o equipamento possa estar desligado, porém energizado pela rede elétrica e conectado localmente a rede de dados.
+
+6.1.2.1.5.	SEGURANÇA:
+•	Chip de segurança TPM (Trusted Platform Module), versão 2.0, soldado à placa principal, acompanhado de drivers e software para utilização do chip.
+
+6.1.2.1.6.	UNIDADE DE DISCO SÓLIDO:
+•	Disco sólido (SSD) padrão SATA ou M.2 com capacidade mínima de armazenamento de 1 TB;
+•	Velocidade de leitura sequencial de, no mínimo, 500 MB/s e de escrita sequencial de, no mínimo, 400 MB/s.
+
+6.1.2.1.7.	CONTROLADORA DE REDE: 
+•	Em conformidade com o padrão 802.3; Suporte aos protocolos WOL e PXE;
+•	Operar a 10/100/1000 Mbps, com reconhecimento automático da velocidade da rede;
+•	Capacidade de operar no modo full-duplex; Conector RJ-45 fêmea;
+•	Módulo de rede sem fio integrado compatível com padrão IEEE 802.11ac (Wi-Fi 5), 2x2.
+
+6.1.2.1.8.	CONTROLADORA DE VÍDEO:
+•	Controladora de vídeo dedicada com memória GDDR6 de 12 GB, ou superior; Interface de memória de 128 bits, ou superior;
+•	Clock do chipset de 1320 MHz, ou superior; Interface PCI Express 4.0 x16;
+•	Suporte à tecnologia Ray Tracing;
+•	Suporte à resolução mínima de mínima de 2560 x 1440 pixels (QHD) @ 60 Hz; Compatível com resoluções de até 3840 x 2160 (4K) @ 60 Hz
+•	Possuir 02 (dois) conectores de vídeo, 02 (dois) digital nos padrões DisplayPort HDMI;
+•	Suporte a DirectX 12 e OpenGL 4.5;
+•	Suporte a 02 monitores simultaneamente.
+
+6.1.2.1.9.	CONTROLADORA DE ÁUDIO:
+•	Controladora de Áudio High Definition Integrada à placa mãe;
+•	Conectores frontais para Headphone e microfone sendo aceita interface tipo combo; Alto-falante integrado ao gabinete ou placa mãe.
+6.1.2.1.10.	GABINETE:
+•	Gabinete do tipo SFF (Small Form Factor), com volume máximo de 8 litros;
+•	Deve permitir a abertura do gabinete sem utilização de ferramentas (tool less), de forma a possibilitar a troca de componentes como discos de armazenamento e memória. Não serão aceitas quaisquer adaptações sobre o gabinete original do fabricante do equipamento;
+•	Deve possuir alto-falante integrado, com capacidade de reproduzir os sons gerados pelo sistema operacional e alarmes gerados por problemas de inicialização. Não serão aceitas adaptações;
+•	Possuir, pelo menos, 02 (duas) baias internas, podendo ser uma de 2,5 polegadas e uma de 3,5 polegadas, ou 02 (duas) de 3,5 polegadas;
+•	Fonte de alimentação interna ao gabinete, devendo ser do mesmo fabricante do equipamento, com tensão de entrada 110/220 VAC, com potência dimensionada para suportar a configuração máxima do equipamento, com eficiência mínima de 90%, em 50% de carga;
+•	A fonte de alimentação deverá possuir certificação 80PLUS, no mínimo na categoria GOLD, podendo ser averiguada a certificação através do site https://plugloadsolutions.com/80PlusPowerSupplies.aspx;
+•	O cabo de força deverá estar de acordo com a exigência da nova norma do INMETRO NBR 14136; Deve possuir sensor de intrusão integrado ao gabinete;
+•	O gabinete deve permitir a utilização na posição horizontal e vertical sem comprometer os componentes internos e o funcionamento do computador, de forma segura através de base antiderrapante para ambas as orientações, integradas ao gabinete ou através de base original do fabricante do microcomputador quando utilizado na posição vertical;
+•	Deve possibilitar a instalação de cadeado ou lacre de segurança em slot ou trava externa específica de forma a impedir a abertura do gabinete.
+
+6.1.2.1.11.	MONITOR DE VIDEO:
+•	Monitor de vídeo com tela LCD LED Widescreen (16:9) de, no mínimo, 23” polegadas; Suporte à resolução mínima de mínima de 2560 x 1440 pixels (QHD) @ 60 Hz;
+•	Compatível com resoluções de até 3840 x 2160 (4K) @ 60 Hz Possuir ângulo de visão horizontal e vertical de, mínimo, 160º. Brilho de 250 cd/m2;
+•	Possuir taxa de contraste: Típico, no mínimo 1.000:1 e dinâmico no mínimo de 3.000.000:1; Tempo de resposta de, no máximo 5 ms;
+•	Número de cores mínimo de 32 milhões;
+•	Possuir um conector analógico padrão VGA (DB-15), e, um conector digital DisplayPort ou HDMI ou DVI; Deverá possuir mecanismo pivotante para giro do monitor em 90º, com ajuste de altura e inclinação;
+•	Fonte de alimentação interna com ajuste automático de voltagem que suporta as faixas de tensão de 100- 240VAC em 50-60Hz;
+•	Externamente na cor do gabinete do microcomputador e com botões para ligar/desligar e de controle (Menu OSD);
+•	O gabinete do monitor deve estar em conformidade com o padrão VESA de 70 mm ou 100 mm e acompanhado de base original compatível;
+•	Registrado no EPEAT 2019 (Eletronic Product Environmental Assessment Tool) Gold comprovando que o monitor atinge as exigências para controle do impacto ambiental em seu processo de fabricação;
+•	Possuir Certificação TCO;
+•	Estar em conformidade com Energy Star 6.0 ou superior;
+•	O gabinete deverá possuir o furo padrão “Kensington” para a utilização de um cabo de aço do mesmo tipo; Acompanhar cabo de energia no novo padrão brasileiro NBR 14136.
+
+6.1.2.1.12.	TECLADO:
+•	Teclado Padrão ABNT-II, com conector USB;
+•	Teclas de Iniciar e de Atalho do MS – Windows; Com ajuste de inclinação;
+•	Bloco numérico separado das demais teclas;
+•	Ser da mesma cor do equipamento a ser fornecido;
+•	Cabo para conexão ao microcomputador com, no mínimo, 1,5m;
+•	A impressão sobre as teclas deverá ser do tipo permanente, não podendo apresentar desgaste por abrasão ou uso prolongado;
+•	O teclado deverá ser do mesmo fabricante do equipamento ofertado, sendo aceito em regime de OEM; O teclado deverá ser resistente a derramamento de líquidos.
+
+
+6.1.2.1.13.	MOUSE ÓPTICO:
+•	Mouse Ótico com conector USB;
+•	Dispositivo dotado com 3 botões (sendo um botão para rolagem de telas – “scroll”) com resolução mínima de 1000dpi;
+•	Ser da mesma cor do equipamento a ser fornecido; acompanhado de mouse pad;
+•	O mouse deverá ser do mesmo fabricante do equipamento ofertado, sendo aceito em regime de OEM.
+
+6.1.2.1.14.	SISTEMA OPERACIONAL E SOFTWARES:
+•	Acompanhar licença de sistema operacional Microsoft Windows 11 Pro 64bits, em português do Brasil (PT-BR);
+•	O sistema operacional deve estar pré-instalado, bem como, todos os drivers de dispositivos internos, necessários para seu funcionamento;
+•	O fabricante deve disponibilizar no seu respectivo web site, download gratuito de todos os Drivers de dispositivos, para o microcomputador ofertado, na versão mais atual para download.
+•	Acompanhar Microsotf Office and Business 2021 em Português, instalado e em pleno funcionamento.
+
+6.1.2.2.	ITEM 2 - MONITOR DE VÍDEO EXTRA
+•	O modelo de monitor ofertado deverá possuir tecnologia IPS (In-plane switching) integrado
+•	Monitor de vídeo com tela LCD LED Widescreen (16:9) de, no mínimo, 23” polegadas; Suporte à resolução mínima de mínima de 2560 x 1440 pixels (QHD) @ 60 Hz;
+•	Compatível com resoluções de até 3840 x 2160 (4K) @ 60 Hz Possuir ângulo de visão horizontal e vertical de mínimo, 160º. Brilho de 250 cd/m2;
+•	Possuir taxa de contraste: Típico, no mínimo 1.000:1 e dinâmico no mínimo de 3.000.000:1; Tempo de resposta de, no máximo 5 ms;
+•	Número de cores mínimo de 32 milhões;
+•	Possuir um conector analógico padrão VGA (DB-15), e, um conector digital DisplayPort ou HDMI ou DVI; Deverá possuir mecanismo pivotante para giro do monitor em 90º, com ajuste de altura e inclinação;
+•	Fonte de alimentação interna com ajuste automático de voltagem que suporta as faixas de tensão de 100- 240VAC em 50-60Hz;
+•	Externamente na cor do gabinete do microcomputador e com botões para ligar/desligar e de controle (Menu OSD);
+•	O gabinete do monitor deve estar em conformidade com o padrão VESA de 70 mm ou 100 mm e acompanhado de base original compatível;
+•	Registrado no EPEAT 2019 (Eletronic Product Environmental Assessment Tool) Gold comprovando que o monitor atinge as exigências para controle do impacto ambiental em seu processo de fabricação;
+•	Possuir Certificação TCO;
+•	Estar em conformidade com Energy Star 6.0 ou superior;
+•	O gabinete deverá possuir o furo padrão “Kensington” para a utilização de um cabo de aço do mesmo tipo; Acompanhar cabo de energia no novo padrão brasileiro NBR 14136.
+
+6.1.2.3.	ITEM 3 – NOTEBOOK 
+6.1.2.3.1.	PROCESSADOR
+•	Deve possuir processador similar ou superior ao Intel® Core™ i5 da 12ª geração, modelo i5-1235U ou superior;
+•	Núcleos de desempenho com frequência de até 4,6 GHz; 
+•	Núcleos de eficiência com frequência de até 3,4 GHz; 
+•	Arquitetura híbrida com múltiplos núcleos (mínimo de 10 núcleos totais, sendo 2 de desempenho e 8 de eficiência);
+•	Não serão aceitos processadores descontinuados pelo fabricante;
+•	É obrigatório declarar, na proposta, o modelo completo do processador ofertado.
+
+6.1.2.3.2.	MEMÓRIA PRINCIPAL
+•	16 GB de memória DDR4, 3.200 MHz ou superior; 
+•	Suporte à tecnologia Dual Channel;
+•	Memória instalada pode ser soldada ou em slot, com indicação clara na proposta;
+•	Suporte à expansão para, no mínimo, 16 GB;
+
+6.1.2.3.3.	ARMAZENAMENTO
+•	Unidade de estado sólido (SSD) com capacidade mínima de 256 GB; 
+•	Padrão M.2 2242 PCIe Gen4 TLC; 
+•	Velocidade de leitura e gravação compatível com o barramento Gen4.
+
+6.1.2.3.4.	TELA
+•	Tela de 14" polegadas, tecnologia TN, antirreflexo; Resolução mínima de 1920 x 1080 (Full HD).
+
+6.1.2.3.5.	CONTROLADORA DE VÍDEO
+•	Controladora de vídeo integrada ao processador, modelo similar ou superior ao Intel® Iris® Xe Graphics; 
+•	Compatível com DirectX 12 e OpenGL 4.6 ou superior;
+•	Suporte a múltiplos monitores externos.
+•	Suporte à resolução mínima de 1920 x 1080 @ 60 Hz;
+6.1.2.3.6.	ÁUDIO E VÍDEO
+•	Webcam com resolução mínima de 1 MP HD, com microfone embutido; Obturador físico de privacidade para a câmera;
+•	Alto-falantes e microfone integrados.
+6.1.2.3.7.	TECLADO E DISPOSITIVO APONTADOR
+•	Teclado no padrão ABNT2, resistente a respingos e desgastes;
+•	Dispositivo apontador tipo touchpad compatível com gestos multitouch.
+6.1.2.3.8.	CONECTIVIDADE SEM FIO
+•	Wi-Fi 6 e Bluetooth® versão 5.2 ou superior.
+6.1.2.3.9.	PORTAS
+•	Mínimo de 3 portas USB (incluindo USB-C), P2, leitor de cartão SD, HDMI e RJ-45.
+6.1.2.3.10.	CHASSI
+•	Peso máximo de 2 kg.
+6.1.2.3.11.	BATERIA E FONTE DE ALIMENTAÇÃO
+•	Autonomia mínima de 6 horas;
+•	Bateria de íons de lítio com suporte a recarga rápida;
+•	Fonte de alimentação externa compatível com a norma NBR 14136.
+6.1.2.3.12.	SEGURANÇA
+•	Slot para trava de segurança padrão.
+6.1.2.3.13.	SISTEMA OPERACIONAL E CERTIFICAÇÕES
+•	Acompanhar licença do sistema operacional Microsoft Windows 11 Pro (x64), em português do Brasil (PT-BR); 
+•	Sistema operacional pré-instalado, com drivers atualizados disponíveis no site do fabricante; Certificações de eficiência energética (Energy Star) e segurança (UL).
+
+
+6.1.2.4.	ITEM 4 – Lousa Digital Interativa
+6.1.2.4.1.	CAPACIDADE DE ARMAZENAMENTO
+6.1.2.4.2.	PRODUTO: TELA INTERATIVA COM TAMANHO MÍNIMO DE 80"
+6.1.2.4.3.	Alimentação bivolt através de apenas um cabo de energia (Padrão NBR14136).
+6.1.2.4.4.	Deve ser entregue com sistema operacional e demais drivers de dispositivos instalados. 
+6.1.2.4.5.	Garantia “on-site” de no mínimo 36 meses, conforme disposições do Termo de Referência.
+6.1.2.4.6.	Área de visualização diagonal: De no mínimo 80 polegadas. 
+6.1.2.4.7.	Resolução nativa: Ultra HD 4K (3840 x 2160). 
+6.1.2.4.8.	Taxa de brilho típico: De no mínimo 350cd/m². 
+6.1.2.4.9.	Profundidade de cor: 10 bit. 
+6.1.2.4.10.	Taxa de contraste típico: 1200:1. 
+6.1.2.4.11.	Tempo de resposta típico: Menor ou igual a 8ms. 
+6.1.2.4.12.	Possui interface VESA com compatibilidade de montagem em parede e/ou suporte móvel. 
+6.1.2.4.13.	Possui vidro temperado antirreflexo. 
+6.1.2.4.14.	Possui painel multitoque integrado, sem itens adicionais que tornem telas comuns em touchscreen. 
+6.1.2.4.15.	Multitoque com suporte a 40 pontos de toques simultâneos. 
+6.1.2.4.16.	Método de toque: Dedo e caneta passiva (Sem necessidade de pilhas ou magnetismo). 
+6.1.2.4.17.	Velocidade de resposta do toque: De no máximo 10ms. 
+6.1.2.4.18.	Possui sistema de áudio integrado com potência total de no mínimo 24W. 
+6.1.2.4.19.	Possui sistema operacional Android 13 ou posterior instalado no idioma Português-BR. 
+6.1.2.4.20.	Aplicativo Play Store instalada de forma nativa no sistema operacional. 
+6.1.2.4.21.	Armazenamento: Mínimo de 64GB. 
+6.1.2.4.22.	Memória RAM: Mínimo de 8GB. 
+6.1.2.4.23.	Permite espelhamento de tela com dispositivos móveis sem a utilização de cabos. 
+6.1.2.4.24.	Possui capacidade de executar dois sistemas operacionais. 
+6.1.2.4.25.	Possui conexão wireless, podendo ser integrada ou via adaptador do mesmo fabricante. 
+6.1.2.4.26.	Possui certificado ENERGY STAR e/ou certificado de conformidade emitido pelo INMETRO ou laboratório reconhecido conforme Portaria 304 de 06/11/2023 do INMETRO. 
+6.1.2.4.27.	Possui no painel frontal no mínimo as seguintes conexões: 02 USB-A 3.0 e 01 USB-C. 
+
+6.1.2.4.28.	Possui no painel traseiro/lateral no mínimo as seguintes conexões: 02 HDMI, 02 USB-A 3.0, 01 RJ45, e 01 Slot OPS (Open Pluggable Specification).
+6.1.2.4.29.	ACESSÓRIOS QUE DEVERÃO ACOMPANHAR O EQUIPAMENTO: 
+
+6.1.2.4.29.1.	02 Canetas de toque originais do equipamento. 
+6.1.2.4.29.2.	Cabo HDMI. 
+6.1.2.4.29.3.	Suporte de parede adequado para o equipamento. 
+6.1.2.4.29.4.	01 Cabo de energia padrão NBR14136. 
+6.1.2.4.29.5.	01 Controle remoto.
+
+
+6.1.2.5.	ITEM 5 – Nobreak 
+6.1.2.5.1.1.	Nobreak com potência nominal mínima de 600 va.
+6.1.2.5.1.2.	Tecnologia interativa.
+6.1.2.5.1.3.	Tensão de entrada bivolt automática e tensão de saída 120V~ ±10% em modo rede e 120V~ ±5% em modo bateria.
+6.1.2.5.1.4.	Forma de onda senoidal por aproximação (retangular pwm)
+6.1.2.5.1.5.	Deve possuir religamento automático
+6.1.2.5.1.6.	Deve possuir sinalizador audiovisual com o status da bateria e indicação de sobrecarga via LEDs e alertas sonoros
+6.1.2.5.1.7.	Deve possuir no mínimo 01 (uma) bateria interna selada, recarregável, livre de manutenção.
+6.1.2.5.1.8.	Deve possuir tempo de autonomia compatível com ao menos 30 minutos para carga de 100 w.
+6.1.2.5.1.9.	Proteção contra surtos de tensão, sobrecarga, curto-circuito e subtensão/sobretensão de rede elétrica.
+6.1.2.5.1.10.	Deve possuir no mínimo 04 tomadas de saída padrão brasileiro (nbr 14136), sinalização visual e/ou sonora de funcionamento (rede, bateria, carga, falha).
+
+
+6.1.2.6.	SOLUÇÃO DE GESTÃO DE EQUIPAMENTOS, comum à todos os Itens.
+Com o objetivo de proporcionar uma efetiva gestão dos dispositivos, a CONTRATADA deverá entregar junto aos equipamentos, solução que permita o controle e inventário detalhado dos equipamentos e que possibilite o monitoramento, evitando a instalação de softwares indesejados, além da possibilidade de alertas de uso que ferem as políticas de software, permitindo assim, uma rápida ação de correção. A solução deverá integrar funcionalidades avançadas de segurança cibernética, conformidade regulatória e proteção contra ameaças emergentes. Portanto, a solução deverá ter os seguintes requisitos:
+
+6.1.2.7.	Solução de Gestão de equipamentos de informática (endpoints)
+6.1.2.7.1.	A solução deve ser do tipo cliente/servidor, onde a parte servidora mantém todas as configurações definidas pelo administrador e a parte cliente (agente) busca ou recebe essas configurações do servidor.
+6.1.2.7.2.	O software cliente (agente) deve ser instalado em estações de trabalho e notebooks, ambos físicos e/ou virtuais;
+6.1.2.7.3.	O software de gerenciamento (parte servidora) deverá ser disponibilizado em nuvem ou servidor dedicado, sem custo para a CONTRATANTE, pela CONTRATADA;
+6.1.2.7.4.	Permitir o gerenciamento dos agentes, incluindo inventário de software e hardware, para, no mínimo, os seguintes sistemas operacionais:
+6.1.2.7.5.	Windows 11, 32 e 64 bits.
+6.1.2.7.6.	Linux (Ubuntu Desktop 18.1 LTS ou superior) opcionalmente
+6.1.2.7.7.	Possibilitar o estabelecimento de alvos de políticas por filtros baseados em qualquer informação disponível sobre os clientes. Exemplos: configurações de sistema operacional, hardware, componentes, softwares e versões.
+6.1.2.7.8.	Permitir que a solução funcione de forma independente, ou seja, sem a necessidade de integração ou utilização de informações de sistemas externos como, por exemplo, Active Directory (AD).
+6.1.2.7.9.	Possibilidade de definição da frequência de comunicação cliente/servidor;
+6.1.2.7.10.	Deverá prover funcionalidade de envio de logs a servidor.
+6.1.2.7.11.	Implementar sistema de autenticação segura com suporte a múltiplos perfis de acesso e controle granular de permissões.
+6.1.2.7.12.	Garantir criptografia de dados em trânsito e em repouso, utilizando padrões de mercado reconhecidos.
+6.1.2.8.	Console de Gerenciamento
+6.1.2.8.1.	Possuir administração centralizada por meio de console única de gerenciamento; 
+6.1.2.8.2.	Permitir a exportação de dados exibidos na console;
+6.1.2.8.3.	Permitir acesso a todos os logs, com interface para consultas com filtros; 
+6.1.2.8.4.	4 Possuir Portal em Português.
+ 
+6.1.2.8.5.	Implementar painel unificado de visualização com interfaces intuitivas e customizáveis para diferentes perfis de usuário.
+6.1.2.8.6.	Fornecer dashboards em tempo real com métricas de segurança, performance e conformidade.
+6.1.2.9.	Relatórios
+6.1.2.9.1.	Implementar relatórios, no mínimo, para as tarefas de inventário de software e hardware, gerenciamento de contratos e distribuição de software com, no mínimo, as seguintes características:
+6.1.2.9.2.	Relatórios personalizáveis de conectividade dos agentes, identificando períodos sem comunicação;
+6.1.2.9.3.	Relatórios disponíveis em formato web acessíveis por HTTP ou HTTPS;
+6.1.2.9.4.	Relatórios exportáveis para os formatos CSV e PDF;
+6.1.2.9.5.	Visualização relatórios através de endereço web individual de forma que possa ser aproveitado para inserções em intranets e portais web;
+6.1.2.9.6.	Possibilidade de criar relatórios do tipo lista, tabela e gráficos;
+6.1.2.9.7.	Relatórios disponíveis sobre os tipos de itens de configuração disponíveis e assistente para criação de novos relatórios sem a necessidade de programação por códigos de consulta ao banco de dados;
+6.1.2.9.8.	Gerar relatórios criptografados com controle de acesso e proteção contra distribuição não autorizada.
+6.1.2.9.9.	Implementar registro de auditoria das ações realizadas nos relatórios, incluindo quem acessou, quando e quais dados foram visualizados.
+6.1.2.9.10.	Fornecer relatórios de conformidade para normas ISO 27001, LGPD e outras regulamentações aplicáveis.
+6.1.2.10.	Inventário e descoberta de Endpoints (Computadores)
+6.1.2.10.1.	Permitir a descoberta pelo método de Faixa de Endereçamento IPv4;
+6.1.2.10.2.	Captura de inventário básico independente de uso de solução de inventário provisionando as seguintes informações gerais dos clientes:
+6.1.2.10.3.	Hostname e domínio:
+6.1.2.10.4.	Sistema operacional e idioma;
+6.1.2.10.5.	Versão do sistema operacional;
+6.1.2.10.6.	Tipo do dispositivo (computador, móvel, dispositivo de rede, etc.);
+6.1.2.10.7.	Endereço Mac (Mac Address);
+6.1.2.10.8.	Configurações TCP/IP;
+6.1.2.10.9.	Indicação do tipo de endereço: fixo ou dinâmico;
+ 
+
+
+6.1.2.10.10.	Captura de eventos de logon e logoff identificando usuário, domínio, data de logon e logoff e tempo total logado;
+6.1.2.10.11.	Permitir cadastrar manualmente dados de inventário de endpoints que não possuam agente instalado ou conectividade de rede;
+6.1.2.10.12.	Permitir realização de inventário incremental, apenas das mudanças ocorridas desde o último inventário completo;
+6.1.2.10.13.	Execução do inventário de forma silenciosa sem exibição de janela e sem requerer nenhuma ação para o usuário;
+6.1.2.10.14.	Inventário de pelo menos os seguintes tipos de informação de computadores Windows:
+
+6.1.2.10.14.1.	Processador, quantidade, velocidade e tipo/marca;
+6.1.2.10.14.2.	Tipo de computador: desktop, laptop ou outra classificação do fabricante;
+6.1.2.10.14.3.	Fabricante do hardware, modelo, número de série;
+6.1.2.10.14.4.	Fabricante, versão e data da BIOS;
+6.1.2.10.14.5.	Slots de memória disponíveis;
+6.1.2.10.14.6.	Sistema operacional, versão, idioma, fuso horário;
+6.1.2.10.14.7.	Dispositivos configurados e respectivas configurações;
+6.1.2.10.14.8.	Endereço Mac (Mac Address);
+6.1.2.10.14.9.	Configurações TCP/IP de todas as placas de rede;
+6.1.2.10.14.10.	Indicação de endereço IP: fixo ou dinâmico;
+6.1.2.10.14.11.	Discos físicos e lógicos incluindo letras atribuídas, tamanho e propriedades;
+6.1.2.10.14.12.	Tamanho total em disco, total livre, na lixeira, em pastas temporárias e cache;
+6.1.2.10.14.13.	Perfis de usuários existentes no computador;
+6.1.2.10.14.14.	Verificar grupos locais no computador;
+6.1.2.10.14.15.	Tarefas agendadas no sistema operacional;
+6.1.2.10.14.16.	Softwares registrados no Painel de Controle, incluindo ocultos;
+6.1.2.10.14.17.	Softwares residentes no computador independentemente de estarem instalados ou presentes no Painel de Controle;
+
+6.1.2.10.15.	Manter histórico sobre quaisquer instalações e desinstalações de software, bem como sobre adições e remoções de hardware que ocorreram nas estações de trabalho;
+6.1.2.10.16.	Implementar descoberta automatizada de vulnerabilidades conhecidas (CVEs) em sistemas e aplicações instaladas.
+6.1.2.10.17.	Realizar análise de configurações de segurança e identificar desvios das políticas estabelecidas.
+ 
+
+
+6.1.2.11.	Gerenciamento de contratos e uso de softwares
+6.1.2.11.1.1.	Demonstração via relatórios sobre ativos e contratos relacionados com devidos status;
+6.1.2.11.1.2.	Atribuição dos contratos aos respectivos computadores gerenciados;
+6.1.2.11.1.3.	Medição do uso de aplicações em computadores;
+6.1.2.11.1.4.	Envio de eventos de monitoramento e remoção de software de forma on-line ou em frequências determinadas pelo administrador.
+6.1.2.11.1.5.	Implementar controle de conformidade de licenças de software com alertas automáticos para não conformidades.
+6.1.2.11.1.6.	Fornecer visibilidade em tempo real sobre o status de conformidade e uso de licenças.
+
+6.1.2.12.	Medição de softwares
+6.1.2.12.1.1.	Medição do uso de aplicações em computadores Windows;
+6.1.2.12.1.2.	Medição de softwares diversos, mesmo que não homologados;
+6.1.2.12.1.3.	Monitoramento de consumo de CPU e memória utilizado por aplicações;
+6.1.2.12.1.4.	Medição do tempo de uso de aplicações;
+6.1.2.12.1.5.	Análise comportamental de aplicações para detecção de atividades suspeitas ou maliciosas.
+6.1.2.12.1.6.	Monitoramento de performance de sistema com alertas automáticos para anomalias.
+
+6.1.2.13.	Segurança Cibernética e Proteção contra Ameaças
+6.1.2.13.1.1.	Implementar sistema de detecção de vulnerabilidades em tempo real com priorização baseada em criticidade e impacto.
+6.1.2.13.1.2.	Fornecer proteção contra ameaças de phishing através de análise automatizada de comunicações e links suspeitos.
+6.1.2.13.1.3.	Realizar coleta e análise de inteligência de ameaças (OSINT) para identificação proativa de riscos.
+6.1.2.13.1.4.	Implementar capacidades de teste de resistência contra ataques de negação de serviço (DDoS).
+6.1.2.13.1.5.	Utilizar técnicas de inteligência artificial para detecção de vulnerabilidades zero-day e análise avançada de exploits.
+6.1.2.13.1.6.	Automatizar respostas a incidentes de segurança através de playbooks personalizáveis.
+6.1.2.13.1.7.	Integrar com ferramentas líderes de mercado para monitoramento abrangente de segurança.
+6.1.2.13.1.8.	Manter registro auditável de todas as ações de segurança com tecnologia de blockchain para garantir integridade.
+
+
+
+6.1.2.14.	Conformidade Regulatória
+6.1.2.14.1.1.	Garantir conformidade com regulamentações nacionais e internacionais, incluindo:
+6.1.2.14.1.1.1.	ISO 27001 - Sistema de Gestão de Segurança da Informação;
+6.1.2.14.1.1.2.	LGPD - Lei Geral de Proteção de Dados;
+6.1.2.14.1.1.3.	GDPR - Regulamento Geral sobre a Proteção de Dados;
+6.1.2.14.1.1.4.	SOC 2 - Service Organization Control 2;
+6.1.2.14.1.1.5.	Fornecer relatórios automáticos de conformidade com evidências documentais.
+6.1.2.14.1.1.6.	Implementar controles de auditoria contínua para verificação de aderência às políticas estabelecidas.
+6.1.2.14.1.1.7.	Manter trilhas de auditoria completas e imutáveis de todas as atividades do sistema.
+
+6.1.2.15.	Automação e Orquestração
+6.1.2.15.1.1.	Implementar plataforma de orquestração para automação de fluxos de trabalho de segurança.
+6.1.2.15.1.2.	Permitir criação de playbooks personalizados para resposta automatizada a incidentes.
+6.1.2.15.1.3.	Coordenar múltiplas ferramentas de segurança de forma eficiente e integrada.
+6.1.2.15.1.4.	Reduzir tempo de resposta a incidentes através de automação inteligente.
+6.1.2.15.1.5.	Fornecer capacidades de machine learning para melhoria contínua dos processos automatizados.
+
+6.1.2.16.	Integração e Interoperabilidade
+6.1.2.16.1.1.	Suportar integração nativa com ferramentas líderes de mercado em segurança cibernética.
+6.1.2.16.1.2.	Fornecer APIs padronizadas para integração com sistemas legados e soluções proprietárias.
+6.1.2.16.1.3.	Implementar conectores para principais plataformas de SIEM (Security Information and Event Management).
+6.1.2.16.1.4.	Garantir compatibilidade com ambientes híbridos (on-premise e nuvem).
+6.1.2.16.1.5.	Suportar padrões abertos de comunicação e troca de dados de segurança.
+
+6.1.2.17.	Suporte Técnico e Manutenção
+6.1.2.17.1.1.	A CONTRATADA deverá fornecer suporte técnico especializado durante todo o período contratual.
+6.1.2.17.1.2.	Garantir atualizações regulares de segurança e funcionalidades sem custo adicional.
+6.1.2.17.1.3.	Fornecer treinamento técnico para equipes da CONTRATANTE sobre o uso da solução.
+6.1.2.17.1.4.	Manter documentação técnica atualizada e em português.
+6.1.2.17.1.5.	Estabelecer canais de comunicação dedicados para suporte emergencial 24x7.
+
+6.1.2.18.	Requisitos de Performance e Disponibilidade
+6.1.2.18.1.1.	Garantir disponibilidade mínima de 99,5% do sistema durante horário comercial.
+6.1.2.18.1.2.	Implementar mecanismos de backup e recuperação de dados automatizados.
+6.1.2.18.1.3.	Suportar escalabilidade horizontal para crescimento do ambiente.
+6.1.2.18.1.4.	Otimizar consumo de recursos computacionais nos endpoints monitorados.
+6.1.2.18.1.5.	Fornecer monitoramento proativo de performance do próprio sistema de gestão.
+
+6.1.2.19.	ASSISTÊNCIA TECNICA E MANUTENÇÃO:
+6.1.2.19.1.1.	Deverá ser prestada assistência técnica aos equipamentos locados, sem custo adicional em relação ao preço contratado;
+6.1.2.19.1.2.	Todos os equipamentos locados deverão receber a adequada e devida manutenção preventiva e/ou corretiva;
+6.1.2.19.1.3.	A CONTRATADA deverá, obrigatoriamente, disponibilizar à CONTRATANTE uma ferramenta para registro e acompanhamento de incidentes, com capacidade de registrar data, incidente observado e nível de criticidade, bem como de consultar data e horário de abertura e de conclusão, fato gerador do incidente, informações detalhadas do problema e das soluções adotadas; adicionalmente, sempre que solicitada pela CONTRATANTE, a CONTRATADA deverá apresentar as evidências e comprovantes relacionados aos incidentes.
+6.1.2.19.1.4.	O nível de criticidade registado pela CONTRATANTE não poderá ser alterado pela CONTRATADA.
+6.1.2.19.1.5.	Os prazos para início do primeiro atendimento e solução são contados a partir da abertura do incidente no portal;
+6.1.2.19.1.6.	Os incidentes devem ser atendidos entre segunda a sexta-feira 9h as 18h.
+6.1.2.19.1.7.	Os tempos máximos para atendimento e solução do problema por parte da CONTRATADA serão contados a partir da abertura do chamado técnico ou ordem de serviço, que ocorrerá após comunicação de ocorrência da CONTRATANTE através de plataforma, telefone, e-mail ou pessoalmente;
+
+6.1.2.19.1.8.	Define-se como “Tempo de atendimento ao chamado” o período compreendido entre o horário de comunicação do chamado feito pela CONTRATANTE e o horário de chegada do técnico ao local do atendimento;
+6.1.2.19.1.9.	Define-se como “Tempo de solução do problema”, o período compreendido entre o horário de chegada do técnico ao local de atendimento e o horário do término da solução, devidamente registrados no documento de Chamado Técnico ou ordem de serviço, pelo técnico da CONTRATADA, deixando o equipamento em condições normais de operação;
+6.1.2.19.1.10.	Entende-se por “Solução do problema”, a identificação e adoção de medidas corretivas a serem implementadas para sanar o problema que resultou a abertura do chamado;
+6.1.2.19.1.11.	Caso a CONTRATADA não termine o reparo do equipamento no prazo estabelecido no presente ajuste, a CONTRATADA deverá substituí-lo dentro do prazo especificado, por outro de sua propriedade, com características iguais ou superiores, por um período máximo de 30 dias. Caso o equipamento original não possa ser reinstalado, a CONTRATADA deverá substituí-lo por um novo;
+6.1.2.19.1.12.	O técnico da empresa CONTRATADA fará um relatório dos procedimentos adotados durante o atendimento, fechando este registro após ter solucionado e concluído o chamado, registrando todos os dados no sistema, procedendo com o fechamento do chamado;
+6.1.2.19.1.13.	Entende-se por “Fechamento do chamado”, o término do trabalho realizado pela empresa CONTRATADA, solucionando definitivamente o problema relatado no chamado, descrevendo a solução adotada, com data e hora, a identificação das peças substituídas, quando ocorrerem. Porém, para os casos em que houver a necessidade de substituição por equipamento reserva, o chamado só será fechado no retorno do equipamento original ou definitiva substituição por outro novo. Não sendo considerada, portanto, que a simples substituição por equipamento reserva seja considerada motivo para fechamento do Chamado Técnico. A CONTRATANTE poderá ficar com equipamento reserva por no máximo 30 dias corridos, após esta data, deverá ser instalado um equipamento novo, sem uso anterior, mas mesmas especificações do equipamento antigo, ou superiores;
+6.1.2.19.1.14.	Caso o equipamento seja trocado por outro em caráter definitivo, esta informação deverá constar no histórico do chamado, bem como os dados do novo equipamento marca, modelo, número de série etc.) deverão constar no banco de dados;
+6.1.2.19.1.15.	Para atendimento do Acordo de Níveis de Serviços, o proponente vencedor deverá respeitar os prazos descritos na tabela abaixo;
+6.1.2.19.1.16.	O SLA de Atendimento, quando não houver necessidade de reposição de equipamentos ou partes dos mesmos, deverá prever tempos diferentes de solução / Atendimento, observando o nível de criticidade de cada solicitação:
+
+6.1.2.19.1.16.1.	
+
+Nível	Descrição Resumida	Tempo
+Atendimento	Tempo Solução
+Crítico	Falha que impede o uso do equipamento.	1 horas	8 horas
+
+Médio	Falha que compromete funções importantes, mas permite uso parcial.	
+2 horas	
+16 horas
+Normal	Falha de baixo impacto, sem impedir o uso geral.	4 horas	24 horas
+
+
+6.1.2.19.1.16.2.	O SLA de Atendimento, quando houver necessidade de reposição de equipamentos ou partes dos mesmos, deverá prever tempos diferentes de solução / atendimento, observando o nível de criticidade de cada criticidade de cada solicitação:
+
+
+Nível	Descrição Resumida	Tempo
+Atendimento	Tempo Solução
+Crítico	Falha que impede o uso do equipamento.	1 hora	24 horas
+
+Médio	Falha que compromete funções importantes, mas permite uso parcial.	
+2 horas	
+48 horas
+Normal	Falha de baixo impacto, sem impedir o uso geral.	4 horas	72 horas
+6.1.2.19.1.16.3.	Para o cumprimento do referido nível de serviço, a CONTRATADA deverá providenciar todos os materiais necessários, além do corpo técnico, veículos para atendimento dos chamados, planejamento para distribuição de peças, com técnicos contratados através da CLT ou credenciados técnicos terceirizados (com contrato estabelecido com a CONTRATADA), certificados, e devidamente uniformizados e com crachá de identificação, prezando a qualidade do serviço prestado e sendo a CONTRATADA responsável por estes.
+6.1.2.19.1.16.4.	A CONTRATADA é a única e exclusiva responsável pela manutenção preventiva dos equipamentos objeto desta contratação, devendo ser realizada periodicamente e obedecendo às recomendações do Manual de Operação de cada equipamento, inclusive aos serviços abaixo descritos:
+6.1.2.19.1.16.5.	Verificar o estado geral de conservação dos equipamentos e providenciar substituição dos mesmos sempre que for necessário;
+6.1.2.19.1.16.6.	Providenciar revisão geral de todos os itens previstos no Manual de Operações de acordo com a recomendação do fabricante; e
+6.1.2.19.1.16.7.	Efetuar as revisões periódicas, observando as recomendações do fabricante.
+
+6.1.2.20.	GERENCIAMENTO E MONITORAMENTO DE CHAMADOS
+
+6.1.2.20.1.	Todos os chamados deverão ser registrados e monitorados pela CONTRATANTE em software web informatizado, com pelo menos os serviços abaixo:
+
+6.1.2.20.1.1.	Possibilitar a abertura automática de assistência técnica para qualquer equipamento instalado no parque e softwares instalados no ambiente da CONTRATANTE, de forma automatizada (via software instalado no equipamento ou sítio web), telefônica ou e-mail;
+6.1.2.20.1.2.	Acompanhamento e controle da execução dos serviços, sendo possível visualizar o status de cada ordem de serviço;
+6.1.2.20.1.3.	Opcionalmente, chat on-line para acompanhamento de status de OS;
+6.1.2.20.1.4.	Relatório de inventário dos equipamentos instalados, com informações do equipamento e local da instalação, contatos dos responsáveis e informações relevantes ao equipamento;
+6.1.2.20.1.5.	Possibilitar exportação dos relatórios para planilhas e editor de textos;
+6.1.2.20.1.6.	Relatório de SLA mensal disponível no canal para consulta da CONTRATANTE.
+
+
+7.	ESTIMATIVAS DAS QUANTIDADES A SEREM CONTRATADAS
+7.1.	Definição do método para a estimativa das quantidades:
+7.1.1.	As quantidades a serem adquiridas foram definidas com base no levantamento da demanda por equipamentos de Tecnologia da Informação e Comunicação (TIC) da NITERÓI TRÂNSITO S.A realizado através do (Ofício Circular /Processo ADM) XX/202X.
+
+8.	ESTIMATIVA DO VALOR DA CONTRATAÇÃO
+
+
+Item	Descrição Resumida	Fonte de consulta de
+preços	
+Data Base	Preço Unitário	Preço Total
+					
+					
+					
+					
+					
+PREÇO TOTAL PROJETADO	R$  283.585,60
+
+
+8.1.	A estimativa apresentada refere-se ao valor para a contratação do quantitativo máximo disposto no item 6.1.1 e valores constantes no Anexo I. Ressaltamos que, por se tratar de um processo para formalização de Ata por meio do Sistema de Registro de Preços, NITERÓI TRÂNSITO S.A não assume a obrigação de utilizar o quantitativo máximo, tampouco é necessário que seja feita a reserva orçamentária para o valor total da ARP.
+
+9.	JUSTIFICATIVA PARA O PARCELAMENTO OU NÃO DA SOLUÇÃO
+9.1.	Considerando as características do objeto, vislumbra-se a oportunidade de parcelamento da solução em lotes, conforme item 6.1.1 deste Estudo Técnico.
+10.	CONTRATAÇÕES CORRELATAS E/OU INTERDEPENDENTES
+10.1.	Não se faz necessária a realização de contratações correlatas e/ou interdependentes para a viabilidade e contratação desta demanda.
+11.	DEMONSTRAÇÃO DO ALINHAMENTO ENTRE A CONTRATAÇÃO E O PLANEJAMENTO
+11.1.	A presente contratação está aderente ao planejamento da NITERÓI TRÂNSITO S.A, que mantém o cumprimento das contratações de bens e serviços conforme demanda, como forma de garantir o perfeito funcionamento da instituição com segurança operacional, boas condições para o exercício da administração e com totais garantias para o atendimento de suas atividades fins.
+11.2.	Para tanto a NITERÓI TRÂNSITO S.A mantem seus atos de planejamento e controles atualizados e em permanente modernização, tendo entre seus objetivos melhorar os procedimentos de aquisições, na forma e no momento mais adequado.
+11.3.	O fulcro deste ETP é estabelecer as condições gerais e minimamente necessárias para que se proceda a uma contratação dentro dos princípios da legalidade, impessoalidade, moralidade, igualdade, publicidade, probidade administrativa, e principalmente ampla e irrestrita transparência processual no processo de escolha da solução que mais se adequa à demanda identificada pelo Órgão.
+11.4.	Referência a outros instrumentos de planejamento
+11.4.1.	A contratação pretendida está alinhada ao Plano Diretor Geral de Tecnologia da Informação 2024-2025 (PDGTIC), do Município de Niterói, onde estão definidas as ações estratégicas ao alcance dos objetivos institucionais, primando pela eficácia, eficiência e efetividade dos respectivos projetos e processo:
+11.4.1.1.	PDGTIC 2024/2025
+Objetivo Específico: OE 4 - Proporcionar uma infraestrutura moderna e eficiente aliada à sustentabilidade. Categoria da Necessidade: N7. Serviços
+Iniciativa: I7.3 Realizar a contratação centralizada dos serviços, seguindo o trâmite de contratação de TIC.
+11.4.1.2.	PCA 2026
+ID PCA no PNCP: XXXXXXXXXXXXX;
+Data de publicação no PNCP: XXXXX;
+Id do item no PCA: XXX;
+Classe/Grupo: XXX;
+Identificador da Futura Contratação: XXX-202X.
+
+11.4.1.3.	NQQ 2013/2033
+Área de Resultado: Niterói Eficiente e Comprometida Projeto Estruturador: 
+1. Gestão Integrada e Moderna
+Objetivo: Modernizar a administração pública do município, investindo em infraestrutura tecnológica, aperfeiçoando processos, ferramentas e estruturas de acompanhamento da consecução de metas para garantir a transparência, a eficácia e a eficiência na gestão pública.
+11.4.1.4.	ETD 2023/2033
+Princípio: 1 - Um Governo Eficiente e Inteligente
+Objetivo: 4 – Modernizar a infraestrutura de tecnologia com equipamentos e rede de qualidade; Resultado-chave: 4.4. Modernizar o parque tecnológico da Prefeitura, com mais de mil computadores até 2026.
+
+12.	DEMONSTRATIVO DOS RESULTADOS PRETENDIDOS
+12.1.	A presente contratação almeja a aquisição do objeto que atenda, além dos requisitos específicos estabelecidos neste documento, a formalização de contrato que garanta a economicidade, eficácia, eficiência e melhor aproveitamento dos recursos materiais e/ou financeiros da administração pública.///// A presente contratação almeja a implementação de uma solução de conectividade que atenda, além dos requisitos de alta performance estabelecidos, a formalização de um modelo de serviço que garanta a disponibilidade contínua dos sistemas, economicidade, eficácia e o melhor aproveitamento dos recursos financeiros. Busca-se transitar de um modelo de conexões simples para uma infraestrutura resiliente, minimizando prejuízos decorrentes de falhas de comunicação.
+12.2.	Além disso, pretende-se que a contratação assegure a modernização do parque tecnológico da NITERÓI TRÂNSITO S.A, promovendo a melhoria da produtividade e a padronização dos equipamentos. A organização por lotes permitirá atender demandas específicas de forma adequada e eficiente. A flexibilidade contratual permitirá atender às demandas variáveis sem obrigatoriedade de consumo imediato, assegurando economicidade e adequação à real necessidade dos órgãos, evitando desperdícios e otimizando o uso dos recursos públicos.//// Além disso, pretende-se que a contratação assegure a modernização da infraestrutura de TIC da NITERÓI TRÂNSITO S.A, promovendo a estabilidade dos serviços digitais e a padronização dos níveis de serviço. A organização por lotes ou itens permitirá o atendimento segmentado das necessidades da sede e das demais unidades operacionais, garantindo que cada ponto receba a largura de banda adequada à sua criticidade. A estrutura contratual permitirá a escalabilidade da solução, possibilitando ajustes na infraestrutura de rede conforme a evolução das demandas tecnológicas da Companhia, assegurando que o investimento seja proporcional à real necessidade e evitando a ociosidade de recursos públicos.
+
+13.	PROVIDÊNCIAS A SEREM ADOTADAS PREVIAMENTE À CELEBRAÇÃO DO CONTRATO
+13.1.	Não será utilizado nenhum recurso que demande alteração da estrutura atual, inclusive quanto a capacitação de servidores para a fiscalização e gestão contratual, uma vez que serão designados servidores com experiência prévia na fiscalização e gestão de contratos de TIC.
+
+14.	SUSTENTABILIDADE AMBIENTAL
+14.1.	A contratada deverá cumprir as orientações da Instrução Normativa nº 01 de 19 de janeiro de 2010, que dispõe sobre referente aos critérios de Sustentabilidade Ambiental, especialmente o que consta nos artigos 5º e 6º da normativa, no que couber.
+14.2.	Serão incluídas como obrigação da contratada critérios e práticas de sustentabilidade a serem veiculados como especificação técnica do objeto, nos casos e na forma da Instrução Normativa nº 01 de 19 de janeiro de 2010.
+14.3.	No caso de descarte e destinação ambientalmente adequada dos inservíveis, eventualmente utilizados e/ou substituídos na execução dos serviços, a contratada deverá proceder ao descarte e destinação ecologicamente correta.
+14.4.	A destinação final será responsabilidade da contratada e deverá ser realizada de acordo com a Lei Federal nº 12.305/2010 (Política Nacional de Resíduos Sólidos) e o Decreto Federal nº 7.404/2010.
+14.5.	A contratada deverá receber da NITERÓI TRÂNSITO S.A os objetos inservíveis, para repasse aos respectivos fabricantes ou importadores, a fim de garantir a sua reutilização ou descarte sustentável, nos termos da Lei nº 12.305/2010;
+14.6.	Todos os custos referentes ao recebimento de inservíveis, tais como coleta, transporte, recebimento e manuseio, correrão por conta da contratada.
+14.7.	Caberá à contratada apresentar todos os certificados de licença de funcionamento ou de autorização especial, emitido pelos órgãos ou entidades competentes, necessários para a execução do objeto, bem como atender a todas as demais legislações pertinentes.
+
+15.	DECLARAÇÃO DA VIABILIDADE DA CONTRATAÇÃO
+15.1.	O presente Estudo Técnico Preliminar (ETP) considerou a necessidade de contratação do objeto, os requisitos técnicos, legais, ambientais e os do próprio negócio, o mercado em que o objeto se encontra inserido, bem como todos os demais requisitos necessários para a caracterização e quantificação da demanda identificada, bem como o processo de escolha da solução que melhor se adequa à Instituição nesta oportunidade. Foram considerados ainda os requisitos ambientais; os aspectos legais.
+15.2.	Desta forma, entende-se ser VIÁVEL a contratação sob análise, na forma que dispõe o art. 32, XIII, do Decreto Municipal nº 14.730/2023, e, visando dar início à implementação do objeto aqui delineado, recomenda-se a elaboração de Termo de Referência com base no presente estudo e o encaminhamento para o setor competente para o prosseguimento do feito.
+
+
+
+
+
+
+
+
+Rio de Janeiro, xx de xxxxx de 2025.
+
+
+
+Elaborado por:
+
+Raphael Silva Queiroz Vieira
+Chefe de Divisão de Infraestrutura e Serviço
+Matricula: 150.300
+
+Gilberto Rodrigues da Silva Neto
+Chefe do Departamento de Tecnologia da Informação
+Matricula: 150.376
+
+
+Aprovado por:
+
+
+Gestor Aprovador
+Cargo do Aprovador
+Matricula: 150.XXX
+
+Gestor Aprovador
+Cargo do Aprovador
+Matricula: 150.XXX
+
+
+ 
+
+
+ 
+
+ANEXO I - Memória de Cálculo
+
+Solução A - Sistema de Registro de Preços (SRP).
+
+Lote 1 - Estações de Trabalho com Monitores
+Item	Descrição
+Resumida	Unidade	Quant.	Fonte	Preço Unitário	Preço Mensal	Preço Anual
+1	Outsourcing de Desktop Tipo III	
+Serviço	
+200	PE 02/2025
+P. M.
+Fazenda Rio Grande	
+R$ 648,88	
+R$ 129,776,00	
+R$ 1.557.312,00
+2	Outsourcing de Monitor de Vídeo Extra	
+Serviço	
+200	PE 02/2025
+P. M.
+Fazenda Rio Grande	R$ 16,00	R$ 3.200,00	R$ 265.536,00
+TOTAL	R$ 
+
+
+Lote 2 - Computação Móvel e Lousa Interativa
+Item	Descrição
+Resumida	Unidade	Quant.	Fonte	Preço
+Unitário	Preço Mensal	Preço Anual
+3	
+Outsourcing de Notebook Tipo II 	Serviço	10	ATA DE REGISTRO DE PREÇOS
+Nº 220/2025 ICISMEP	
+
+R$ 200,00	
+
+R$ 2.000,00	
+
+
+4	
+ Lousa Interativa	Serviço	4	PE 90143/2025
+CASCAVEL/PR	R$2569,40		
+TOTAL	R$ 
+
+Lote 3 – Suporte Infraestrutura 
+Item	Descrição
+Resumida	Unidade	Quant.	Fonte	Preço
+Unitário	Preço Mensal	Preço Anual
+
+5	No-Break	Serviço	200		R$ 	
+R$ 	R$
+TOTAL	R$ 
+
+
+
+
+Solução B – Contratações não vinculadas ao SRP.
+
+Lote 1 - Estações de Trabalho com Monitores
+Item	Descrição Resumida	Unidade	Quant.	Fonte	Preço Unitário	Preço Mensal	Preço Total
+
+1	Outsourcing de Desktop Tipo III	
+Serviço	
+200	Contrato 14/2025
+Câmara M. de Varginha	R$ 800,55	R$ 8.005,50	R$ 96.066,00
+
+2	Outsourcing de Monitor de Vídeo Extra	Serviço	200	Contrato
+396/CL/2024 P.M.
+Marilia	
+R$ 37,14	R$ 51.364,62	R$ 616.375,44
+TOTAL	R$ 
+
+
+Lote 2 - Computação Móvel e Lousa Interativa
+Item	Descrição Resumida	Unidade	Quant.	Fonte	Preço Unitário	Preço Mensal	Preço Total
+
+3	Outsourcing de Notebook Tipo II –Educacional	
+Serviço	
+100	PE
+02/24/2024
+SEIOP	R$ 269,07	R$ 26.907,00	R$ 322.884,00
+
+4	Lousa Interativa	
+Serviço	
+183	PE
+058/2023
+P.M. CAJATI	R$ 399,2	R$ 73.053,60	R$
+TOTAL	R$ 
+
+Lote 3 – Suporte Infraestrutura 
+Item	Descrição
+Resumida	Unidade	Quant.	Fonte	Preço
+Unitário	Preço Mensal	Preço Anual
+
+5	No-Break	Serviço	200		R$	
+R$	R$
+TOTAL	R$ 
+ 
+
