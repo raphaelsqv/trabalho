@@ -8,3 +8,40 @@ Get-ChildItem -Path $diretorio -Recurse -File -ErrorAction SilentlyContinue |
     Export-Csv -Path "C:\Relatorio_Caminhos_Longos_E.csv" -NoTypeInformation -Encoding UTF8
 
 Write-Host "Busca concluída! O relatório foi salvo em C:\Relatorio_Caminhos_Longos_E.csv" -ForegroundColor Green
+
+
+####################################################
+
+#alternatina
+
+
+# Define o caminho do servidor
+$diretorio = "C:\Dados" 
+
+# Busca arquivos e pastas, calcula o tamanho e filtra
+$resultados = Get-ChildItem -Path $diretorio -Recurse -ErrorAction SilentlyContinue | 
+    Select-Object FullName, @{Name="Tamanho"; Expression={$_.FullName.Length}} | 
+    Where-Object {$_.Tamanho -gt 256} | 
+    Sort-Object Tamanho -Descending
+
+# Exibe na tela para conferência rápida
+$resultados | Out-GridView -Title "Caminhos Longos detectados (+256 caracteres)"
+
+# Exporta para análise detalhada
+$resultados | Export-Csv -Path "C:\Relatorio_Estrutura_Longa.csv" -NoTypeInformation -Encoding UTF8
+
+
+#####################################
+
+# 1. Define o diretório inicial
+$diretorio = "E:\" 
+
+# 2. Busca apenas ARQUIVOS (-File) e calcula o tamanho
+# O prefixo \\?\ permite ler caminhos que já estouraram o limite
+Get-ChildItem -Path "\\?\$diretorio" -Recurse -File -ErrorAction SilentlyContinue | 
+    Select-Object FullName, @{Name="TamanhoCaminho"; Expression={$_.FullName.Length}} | 
+    Where-Object {$_.TamanhoCaminho -gt 256} | 
+    Sort-Object TamanhoCaminho -Descending |
+    Export-Csv -Path "C:\Relatorio_Arquivos_Somente98.csv" -NoTypeInformation -Encoding UTF8
+
+Write-Host "Relatório de arquivos gerado em C:\Relatorio_Arquivos_Somente98.csv" -ForegroundColor Cyan
