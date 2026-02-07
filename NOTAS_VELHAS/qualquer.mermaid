@@ -1,0 +1,15 @@
+classDiagram
+    class Animal {
+        +name: string
+        +age: int
+        +makeSound(): void
+    }
+
+
+    class Pessoa {
+        +name: string
+        -age: int
+        +makeSound(): void
+    }
+
+Animal --> Pessoa : Pertence
